@@ -1,0 +1,6 @@
+MICHAEL CHEN
+Senior Backend Engineer | michael@example.com | +1 (555) 456-7890 | New York, NY
+TECHNICAL SKILLS:
+- Node.js, Express.js, MongoDB, Docker, Microservices, Redis, Git, Linux
+EXPERIENCE:
+- Senior Backend Architect at CloudScale (4 years): Designed high-throughput microservices using Node.js and Express.js.

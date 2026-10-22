@@ -1,0 +1,20 @@
+SARA CONNOR
+Junior Frontend Developer | sara@example.com | +1 (555) 234-5678 | San Francisco, CA
+Portfolio: https://github.com/sara-dev | LinkedIn: linkedin.com/in/sara-dev
+
+SUMMARY:
+Motivated Frontend Developer with solid expertise in modern JavaScript, React, and responsive UI design. Passionate about building seamless user experiences.
+
+EDUCATION:
+- Bachelor of Science in Computer Science, Tech University (Graduated 2024, GPA: 3.8/4.0)
+
+TECHNICAL SKILLS:
+- Languages: JavaScript (ES6+), HTML5, CSS3
+- Frameworks & Libraries: React, Tailwind CSS, Redux Toolkit
+- Tools & Platforms: Git, GitHub, Vite, Webpack, Figma
+
+PROJECTS:
+1. E-Commerce UI Dashboard (React, Tailwind CSS)
+   - Built a responsive dashboard with interactive charts and dynamic filtering.
+2. Personal Portfolio Site (HTML5, Modern CSS, JavaScript)
+   - High-performance, accessible portfolio with dark mode.

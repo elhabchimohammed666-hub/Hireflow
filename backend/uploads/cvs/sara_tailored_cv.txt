@@ -1,0 +1,26 @@
+SARA CONNOR
+Full Stack Developer | sara@example.com | +1 (555) 234-5678 | San Francisco, CA
+Portfolio: https://github.com/sara-dev | LinkedIn: linkedin.com/in/sara-dev
+
+SUMMARY:
+Energetic Full Stack Developer with project experience building full-featured web applications using Next.js, TypeScript, and Express.js. Strong foundation in computer science and modern API development.
+
+EDUCATION:
+- Bachelor of Science in Computer Science, Tech University (Graduated 2024)
+- Relevant Coursework: Data Structures, Algorithms, Web Engineering, Database Systems.
+
+TECHNICAL SKILLS:
+- Core Languages & Frameworks: Next.js, TypeScript, Express.js, React, Node.js, JavaScript (ES6+)
+- API & Architecture: REST APIs, JWT Authentication, MVC Pattern
+- Databases: MongoDB
+- Tools & Methodologies: Git, Agile, Postman, Jest, Docker basics
+
+PROFESSIONAL EXPERIENCE & PROJECTS:
+- Junior Web Developer | DevCraft Studio (2024 - Present)
+  - Developed full-stack features using Next.js and TypeScript for internal client platforms.
+  - Implemented secure backend REST API endpoints using Express.js and Node.js.
+  - Collaborated with senior engineers in sprint planning and code reviews.
+
+- Project: TaskFlow Collaboration Platform
+  - Created a real-time collaborative workspace using Next.js and Express.js with TypeScript.
+  - Built JWT-based user authentication and role-based permissions.

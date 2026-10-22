@@ -1,0 +1,6 @@
+ALEX MARTIN
+Frontend Engineer | alex@example.com | +1 (555) 345-6789 | Remote
+TECHNICAL SKILLS:
+- React, Tailwind CSS, JavaScript, REST APIs, HTML5, CSS3, Redux, Git
+EXPERIENCE:
+- Frontend Developer at WebSolutions (2 years): Built high-conversion client web apps with React and Tailwind CSS.
