@@ -55,14 +55,8 @@ cd backend
 npm install
 ```
 
-Configure your environment variables in `backend/.env` (or copy `.env.example`):
-```env
-PORT=5001
-NODE_ENV=development
-MONGO_URI=mongodb://127.0.0.1:27017/hireflow
-JWT_SECRET=hireflow_super_secret_jwt_key_2026_dev_env
-GEMINI_API_KEY=your_optional_gemini_api_key_here
-```
+
+
 > *Note:* If `GEMINI_API_KEY` is not provided, the embedded intelligent NLP & rule engine operates automatically with zero configuration required.
 
 ### 3. Seed Database with Benchmark Scenario
