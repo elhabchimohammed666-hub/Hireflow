@@ -1,3 +1,6 @@
+## License
+   © 2026 Elhabchi Mohammed. All Rights Reserved.
+
 # HireFlow - Smart Recruitment Platform
 > **MERN Stack Edition (MongoDB, Express.js, React, Node.js)**  
 > Intelligent recruitment management platform with AI-assisted qualification analysis, independent CV preservation, and human-in-the-loop workflows.
